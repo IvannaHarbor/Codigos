@@ -3,3 +3,6 @@ numpy
 matplotlib
 scikit-learn
 openpyxl
+jupyter
+nbconvert
+nbclient
