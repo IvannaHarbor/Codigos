@@ -1,1 +1,1 @@
-jupyter nbconvert --to notebook --execute Ventas_SARIMAX_ResidRF.ipynb --output resultados.ipynb
+jupyter nbconvert --to notebook --execute Ventas_SARIMAX_ResidRF.ipynb --ExecutePreprocessor.kernel_name=python3 --output resultados.ipynb
