@@ -1,1 +1,0 @@
-jupyter nbconvert --to notebook --execute Ventas_SARIMAX+ResidRF.ipynb --output output.ipynb
